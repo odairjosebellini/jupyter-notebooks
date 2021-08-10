@@ -1,1 +1,2 @@
+# Exemplo da biblioteca sympy:
 
